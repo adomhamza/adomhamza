@@ -1,8 +1,14 @@
 ### Hi there, Nice to meet you. 👋
+**************************************
 
 
-My name is hamza.
+## My name is hamza.
 
+🔭  I’m currently working on an Ecommerce site in PHP.
+
+🌱  I’m learning Figma and UI/UX Design best practices
+
+💫 Participating in the #100DaysOfCode challenge on twitter.
 <!--
 **adomhamza/adomhamza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
