@@ -1,9 +1,13 @@
 ## Hi there, Nice to meet you. 👋
 
 
-### My name is hamza.
+### My name is hamza. Here are a few things about me.
 
-🔭  I’m currently working on an Ecommerce site in PHP.
+-📚<p>I'm a software engineer with cloud computing skills.</p>
+
+-🔥I'm passionate about Game dev and UI/UX designs
+
+-🔭  I’m currently working on an Ecommerce site in PHP.
 
 🌱  I’m learning Figma and UI/UX Design best practices
 
