@@ -1,19 +1,19 @@
 ## Hi there, Nice to meet you. 👋
 
 
-### My name is hamza. Here are a few things about me.
+### My name is hamza and here are a few things about me.
 
--📚<p>I'm a software engineer with cloud computing skills.</p>
+📚  I'm a software engineer with cloud computing skills.
 
--🔥I'm passionate about Game dev and UI/UX designs
+🔥  I'm passionate about Game dev and UI/UX designs.
 
--🔭  I’m currently working on an Ecommerce site in PHP.
+🔭  I’m currently working on an Ecommerce site in PHP.
 
-🌱  I’m learning Figma and UI/UX Design best practices
+🌱  I’m learning Figma and UI/UX Design best practices.
 
 💫  Participating in the #100DaysOfCode challenge on twitter.
 
-⚡️ Anime addict
+⚡️  Anime addict
 
 ***********************************************************************
 <!--
