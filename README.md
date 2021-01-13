@@ -9,7 +9,7 @@
 
 🔭  I’m currently working on a Blazor app with C#.
 
-🌱  I’m learning Figma and UI/UX Design best practices.
+🌱  I’m learning currently Flutter and Dart.
 
 💫  Participating in the #100DaysOfCode challenge on twitter.
 
