@@ -3,11 +3,11 @@
 
 ### My name is Hamza and here are a few things about me.
 
-📚  I'm a software engineer with cloud computing skills.
+📚  I'm a mobile and software engineer with cloud computing skills.
 
-🔥  I'm passionate about Web dev, Game dev, RPA and UI/UX designs.
+🔥  I'm passionate about Mobile dev, Game dev, RPA and UI/UX designs.
 
-🔭  I’m currently working on a Blazor app with C#.
+🔭  I’m currently working on a Mobile app with Flutter.
 
 🌱  I’m learning currently Flutter and Dart.
 
