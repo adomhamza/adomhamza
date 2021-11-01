@@ -9,9 +9,9 @@
 
 🔭  I’m currently working on a Mobile app with Flutter.
 
-🌱  I’m learning currently Flutter and Dart.
+🌱  Currently honing my Flutter and Dart skills with Flutter Apprentice.
 
-💫  Participating in the #100DaysOfCode challenge on twitter.
+💫  Picking up python language on the side.
 
 ⚡️  Anime addict
 
