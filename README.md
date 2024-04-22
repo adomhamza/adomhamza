@@ -9,9 +9,7 @@
 
 🔭  I’m currently working on a Mobile app with Flutter.
 
-🌱  Currently honing my Flutter and Dart skills with Flutter Apprentice.
 
-💫  Picking up python language on the side.
 
 ⚡️  Anime addict
 
