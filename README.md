@@ -3,11 +3,11 @@
 
 ### My name is Hamza and here are a few things about me.
 
-📚  I'm a mobile and software engineer with cloud computing skills.
+📚  I'm a full stack mobile developer with cloud computing skills.
 
-🔥  I'm passionate about Mobile dev, Game dev, RPA and UI/UX designs.
+🔥  I'm passionate about Mobile dev, Internet of Things, AI and UI/UX designs.
 
-🔭  I’m currently working on a Mobile app with Flutter.
+🔭  I’m currently working on a waste classification mobile app with Flutter with on-edge-ai.
 
 
 
