@@ -6,7 +6,7 @@ I'm a software engineer with **6+ years of experience in mobile application deve
 
 Beyond mobile development, I build data connectors and integration tools, contribute to open-source projects, and explore how AI and connected devices can solve real-world problems.
 
-Currently, I'm building **EcoBin**, a smart waste-management initiative focused on improving waste collection, recycling, and environmental awareness in Ghana.
+Currently, I'm building **[EcoBin](https://www.ecobin.eco/)**, a smart waste-management initiative focused on improving waste collection, recycling, and environmental awareness in Ghana.
 
 I enjoy working across the software stack—from designing user experiences and building mobile applications to integrating external data services and connecting software with physical devices.
 
@@ -33,9 +33,11 @@ Built a software package and command-line interface (CLI) for the Bright Data–
 
 * Developed a reusable software package.
 * Built a CLI to expose functionality through terminal commands.
+* Published the library and CLI on PyPI.
 * Focused on developer usability and simplifying access to the integration.
 
 🔗 **Repository:** [brightdata-hotdata-bridge](https://github.com/adomhamza/brightdata-hotdata-bridge)
+🔗 **PyPI:** [brightdata-hotdata-bridge 0.1.1](https://pypi.org/project/brightdata-hotdata-bridge/0.1.1/)
 
 ### 2. Bright Data × Airbyte
 
@@ -54,9 +56,10 @@ This work extends my experience beyond application development into data ingesti
 Built Bright Data connectors for the Fivetran Community Connectors ecosystem, contributing integrations for Bright Data web data services.
 
 * **Bright Data Web Scraper Connector:** [Merged Pull Request #41](https://github.com/fivetran/community_connectors/pull/41)
+* **Bright Data Web Unlocker Connector:** [Merged Pull Request #40](https://github.com/fivetran/community_connectors/pull/40)
 * **Bright Data SERP Connector:** [Merged Pull Request #38](https://github.com/fivetran/community_connectors/pull/38)
 
-Both pull requests were merged into the project.
+These pull requests were merged into the project.
 
 These contributions demonstrate hands-on experience with connector development, external API integration, and contributing code to an established open-source data integration project.
 
@@ -70,6 +73,7 @@ Worked on iMotion, a mobile application used to control a Bluetooth Low Energy d
 * Worked on adapting the application for iPad.
 * Contributed to the integration between mobile software and connected therapeutic hardware.
 
+🔗 **Website:** [imotionwellness.com](https://imotionwellness.com/)
 🔗 **Repository:** [iMotion — iPad Adaptation](https://github.com/ReallyGreatTech/iMotion/tree/ipad_adaptation)
 
 ### 5. Mediboard / Wise-patient — Healthcare Technology
@@ -87,7 +91,25 @@ Key functionality includes:
 
 **Technical focus:** Flutter, Dart, BLoC, application architecture, API integration, healthcare workflows, and production release processes.
 
-### 6. EcoBin — Smart Waste Management
+🔗 **Website:** [mediboard.co](https://www.mediboard.co/)
+
+### 6. Autisavvy360 — Autism Care Platform
+
+**Mobile Application · Caregiver and Therapist Tools**
+
+Contributed to Autisavvy360, a platform that helps caregivers, therapists, and autistic individuals connect, track progress, and manage everyday care.
+
+Key areas include:
+
+* Mood, behavior, and routine tracking.
+* Therapy goals that adapt as a child grows.
+* Matching with verified therapists.
+* Weekly reports from logs and sessions.
+* A clinically informed screening tool for early signs of autism.
+
+🔗 **Website:** [autisavvy360.com](https://autisavvy360.com/)
+
+### 7. EcoBin — Smart Waste Management
 
 **Flutter · IoT · Edge AI · Sustainability**
 
@@ -105,6 +127,8 @@ Key areas of development include:
 * Recycling education, user engagement, and environmental impact tracking.
 
 **Technical focus:** Flutter, Dart, ESP32, LoRa, sensor integration, ONNX, mobile architecture, and connected-device systems.
+
+🔗 **Website:** [ecobin.eco](https://www.ecobin.eco/)
 
 ---
 
@@ -212,10 +236,11 @@ I believe in building reusable solutions and contributing to the wider developer
 
 Some of my public work includes:
 
-* [Bright Data–Hotdata Bridge](https://github.com/adomhamza/brightdata-hotdata-bridge) — Package and CLI development.
+* [Bright Data–Hotdata Bridge](https://github.com/adomhamza/brightdata-hotdata-bridge) — Package and CLI, published on [PyPI](https://pypi.org/project/brightdata-hotdata-bridge/0.1.1/).
 * [Fivetran Community Connectors — Web Scraper](https://github.com/fivetran/community_connectors/pull/41) — Merged pull request.
+* [Fivetran Community Connectors — Web Unlocker](https://github.com/fivetran/community_connectors/pull/40) — Merged pull request.
 * [Fivetran Community Connectors — SERP](https://github.com/fivetran/community_connectors/pull/38) — Merged pull request.
-* [iMotion — iPad Adaptation](https://github.com/ReallyGreatTech/iMotion/tree/ipad_adaptation) — BLE-connected therapy device controller.
+* [iMotion — iPad Adaptation](https://github.com/ReallyGreatTech/iMotion/tree/ipad_adaptation) — BLE-connected therapy device controller. [Website](https://imotionwellness.com/).
 
 I'm interested in collaborating on projects involving mobile development, data integrations, IoT, and developer tooling.
 
